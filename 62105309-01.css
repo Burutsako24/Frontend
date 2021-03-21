@@ -1,0 +1,19 @@
+h1{
+    color: orange;
+}
+h3{
+    color:orange;
+}
+.red{
+    color: red;
+}
+.bgpink{
+    background-color:#ff99ff;
+    padding: 20px;
+}
+body{
+    background-color: lightgrey;
+    font-family: Arial;
+    margin-left: 150px;
+    margin-right: 150px;
+}
